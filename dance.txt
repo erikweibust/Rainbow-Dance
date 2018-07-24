@@ -2,5 +2,6 @@ Step Left
 Step Right
 Jump Up
 Jump Up
+Twirl around
 
 This is from Rainbow Coder YouTube channel
