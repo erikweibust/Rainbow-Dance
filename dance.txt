@@ -1,0 +1,6 @@
+Step Left
+Step Right
+Jump Up
+Jump Up
+
+This is from Rainbow Coder YouTube channel
